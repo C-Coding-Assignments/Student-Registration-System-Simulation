@@ -7,9 +7,9 @@
 <body>
 
 <header>
-  <h1>Agile Data Processor 🚀</h1>
+  <h1>Student Registration System Simulation</h1>
   <p>
-    The <strong>Agile Data Processor</strong> is an advanced C programming project that demonstrates the ability to handle and manipulate dynamic datasets efficiently. With a focus on real-time data processing, memory management, and algorithmic performance, this project showcases practical problem-solving and system design techniques.
+    The <strong>Student Registration System Simulation</strong> is an advanced C programming project that demonstrates the ability to handle and manipulate dynamic datasets efficiently. With a focus on real-time data processing, memory management, and algorithmic performance, this project showcases practical problem-solving and system design techniques.
   </p>
 
   <h2>How to Run the Code</h2>
